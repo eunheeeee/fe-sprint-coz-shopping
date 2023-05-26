@@ -1,8 +1,8 @@
 import React from 'react';
 import './Header.css'
-import logo from './로고.png';
-import text from './쇼핑몰 이름.png'
-import ham from './아이콘.png'
+import logo from '../img/로고.png';
+import text from '../img/쇼핑몰 이름.png'
+import ham from '../img/아이콘.png'
 
 
 function Header () {
