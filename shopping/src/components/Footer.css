@@ -1,0 +1,21 @@
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 58px;
+    border-top: 1px solid rgba(0, 0, 0,0.1);
+    color: #888888;
+}
+footer .fgnb {
+    text-align: center;
+}
+footer .fgnb a {
+    color: #888;
+    text-decoration: none;
+    margin: 5px;
+    font-size: 12px;
+}
+footer p {
+    text-align: center;
+    font-size: 12px;
+}
